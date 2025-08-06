@@ -1,4 +1,7 @@
-## Hi there 👋,I'm sinchana kulal
+<div align="center">
+ ## Hi there 👋,I'm sinchana kulal
+</div>
+
 
 
 **👨‍💻learning to become a good software developer.**
