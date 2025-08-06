@@ -9,15 +9,23 @@
 
 ---
 
+### 👩‍🎓 Education
+
+🎓 I'm currently a **4th-year Computer Science Engineering student** at **MITE (Mangalore Institute of Technology & Engineering)**.  
+📘 Alongside full stack and ML, I’ve also explored **Salesforce** to understand **enterprise-level CRM solutions**.
+
+---
+
 ### 👩‍💻 About Me
 
-- 🎓 A passionate **Software Developer** always eager to learn and build scalable systems
-- 💻 Experienced in **Full Stack Web Development** (MERN Stack, REST APIs)
-- 🤖 Exploring **Machine Learning** with Python and real-world datasets
-- ☁️ Learning **Cloud Deployment** (AWS, Docker) for modern app hosting
-- 🔌 Enthusiastic about **Computer Networking** and system architecture
-- 🤝 Open to **collaboration** on AI/ML, Web, and Open Source Projects
-- ✨ Enjoy transforming ideas into **clean, efficient code**
+- 🔭 I’m a passionate **Software Developer** focused on building scalable systems
+- 💻 Skilled in **Full Stack Web Development** (MERN Stack, REST APIs)
+- 🤖 Exploring **Machine Learning** using Python and real datasets
+- ☁️ Interested in **Cloud technologies** like AWS & Docker
+- 🔌 Learning **Computer Networking** concepts and systems architecture
+- 🧩 Also gaining knowledge in **Salesforce CRM** platform
+- 🤝 Open to **collaborations** and **internship opportunities**
+- ✨ I love writing clean, readable, and efficient code
 
 ---
 
@@ -42,6 +50,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -72,5 +81,6 @@
 
 ### ⚡ Fun Fact
 
-> I love turning coffee into code ☕💻  
-> And bugs into features 🐛✨
+> I turn logic into code and problems into opportunities.  
+> Salesforce dashboards? React components? Python ML models? I love them all. 💻✨
+
