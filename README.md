@@ -1,6 +1,6 @@
 ## Hi there 👋,I'm sinchana kulal
 ---
-> [!IMPORTANT]
+
 > 👨‍💻learning to become a good software developer.
 ---
 
