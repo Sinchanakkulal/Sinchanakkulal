@@ -14,7 +14,7 @@
 
     </td>
     <td>
-      <img src="https://user-images.githubusercontent.com/164887240/475089258-869aaf17-57e0-4b2a-b3d0-cc40fa51b945.gif" alt="Working GIF" width="300"/>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWhreXZxb21kdWFnY3E5M3lubGdmYmw3dzBtNG9jcjBubG4yZHowNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" alt="Demo GIF" width="400"/>
     </td>
   </tr>
 </table>
