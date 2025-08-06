@@ -1,7 +1,7 @@
 ## Hi there 👋,I'm sinchana kulal
 
 
-👨‍💻learning to become a good software developer.
+##👨‍💻learning to become a good software developer.
 
 - 🔭 focus is on enhancing skills in **Machine Learning and Web Development**, concentrating on practical applications of **Python, MySQL, and modern web frameworks like    React.js and Node.js**.
 -  🌱 Current learning includes **advanced data visualization techniques** and **cloud deployment strategies** for scalable applications.
