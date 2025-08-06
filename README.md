@@ -5,8 +5,8 @@
 
 
 **👨‍💻learning to become a good software developer.**
-
-
+</br>
+</br>
 - 🔭focus is on enhancing skills in Machine Learning and Web Development, concentrating on practical applications of Python, MySQL, and modern web frameworks like React.js.
 - 🌱cloud deployment strategies for scalable applications.
 - 👯Seeking collaboration on open-source projects related to AI/ML or full-stack web development.
