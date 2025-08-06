@@ -2,7 +2,10 @@
  ## Hi there 👋,I'm sinchana kulal
 
 **👨‍💻learning to become a good software developer.**
- ![Demo GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWhreXZxb21kdWFnY3E5M3lubGdmYmw3dzBtNG9jcjBubG4yZHowNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif)
+<p align="right">
+  <img src="[https://user-images.githubusercontent.com/your-gif.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWhreXZxb21kdWFnY3E5M3lubGdmYmw3dzBtNG9jcjBubG4yZHowNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif)" alt="Demo GIF" width="400">
+</p>
+
 
 - 🔭focus is on enhancing skills in Machine Learning and Web Development, concentrating on practical applications of Python, MySQL, and modern web frameworks like React.js.
 - 🌱cloud deployment strategies for scalable applications.
