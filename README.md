@@ -1,10 +1,13 @@
 
  ## Hi there 👋,I'm sinchana kulal
-
-
-
+</br>
+</br>
+</br>
+</br>
 
 **👨‍💻learning to become a good software developer.**
+</br>
+</br>
 </br>
 </br>
 - 🔭focus is on enhancing skills in Machine Learning and Web Development, concentrating on practical applications of Python, MySQL, and modern web frameworks like React.js.
