@@ -64,7 +64,7 @@
 
 ### 👁️ Profile Views
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Sinchanakkulal&color=blue" alt="Profile Views Counter"/>
 </p>
 
