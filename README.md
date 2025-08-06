@@ -2,8 +2,9 @@
  ## Hi there 👋,I'm sinchana kulal
 
 **👨‍💻learning to become a good software developer.**
+
 <p align="right">
-  <img src="[https://user-images.githubusercontent.com/your-gif.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWhreXZxb21kdWFnY3E5M3lubGdmYmw3dzBtNG9jcjBubG4yZHowNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif)" alt="Demo GIF" width="400">
+  <img src="(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWhreXZxb21kdWFnY3E5M3lubGdmYmw3dzBtNG9jcjBubG4yZHowNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif)" alt="Demo GIF" width="400">
 </p>
 
 
